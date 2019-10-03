@@ -1,0 +1,26 @@
+.Item{
+    width: 100%;
+    font-family: Chandas;
+}
+
+.Item td {
+    border-bottom: 1px solid #ddd;
+}
+
+.paidBy{
+    font-size: 13px;
+    color: darkslategray;
+    text-align: center;
+}
+
+.left{
+    color: steelblue;
+    font-size: 20px;
+    text-align: left;
+}
+
+.right {
+    color: steelblue;
+    font-size: 20px;
+    text-align: right;
+}

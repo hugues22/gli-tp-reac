@@ -1,0 +1,8 @@
+.ListItem {
+    width: 100%;
+    height: 60%;
+    text-align: left;
+    padding-left: 5%;
+    padding-right: 5%;
+    background: white;
+}
